@@ -1,1 +1,0 @@
-"d:\Portable\Portable Python-2.7.17\App\Python\python.exe" server.py
